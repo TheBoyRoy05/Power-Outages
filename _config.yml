@@ -1,0 +1,15 @@
+remote_theme: pages-themes/minima
+
+plugins:
+  - jekyll-remote-theme
+
+title: Predicting Power Outage Severities
+author:
+  name: Issac Roy
+  email: issacroy05@gmail.com
+
+description: >
+  Final Project for DSC 80 @ UCSD
+
+minima:
+  skin: dark
