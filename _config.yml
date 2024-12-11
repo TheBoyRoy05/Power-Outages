@@ -2,5 +2,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 
+markdown: kramdown
+
 title: Predicting Power Outage Severities
 description: Final Project for DSC 80 @ UCSD
