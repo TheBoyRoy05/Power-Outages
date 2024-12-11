@@ -1,11 +1,7 @@
 # Predicting Power Outage Severities
 ## By Issac Roy
-int
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
-<script defer src="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.js"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex/dist/contrib/auto-render.min.js"
-    onload="renderMathInElement(document.body);"></script>****
 
+---
 ## Introduction
 
 Before I begin, I'd like to point out that I had not one, but two power outages at home while working on this. Ironic, isn't it? Well, I guess that just means more data ¯\\_(ツ)_/¯. It did make me realize how frustrating it is not know when the power would come back, so I decided to use the data to predict the durations of outages.
@@ -675,3 +671,8 @@ This graph reveals that removing Nebraska gives us much higher p-value, meaning 
 ## Conclusion
 
 Overall, this was an interesting project and I hope you learned something from this analysis. I know I certainly did. I learned about new visualization techniques as well as creating Machine Learning models with scikit-learn, although I never figured out what's going on with Nebraska. This project was a lot of fun and I'm looking forward to my future in Data Science. Thanks for reading!
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex/dist/contrib/auto-render.min.js"
+    onload="renderMathInElement(document.body);"></script>
